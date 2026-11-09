@@ -1,3 +1,9 @@
+lu (1:0.2+elster1) unstable; urgency=medium
+
+  * Declare target libc data for native ARM64 dependency generation.
+
+ -- Elster Package Maintainers <maintainers@elsterdrones.com>  Mon, 09 Nov 2026 16:07:00 +0000
+
 lu (1:0.2) unstable; urgency=medium
 
   * DANOS Import master
